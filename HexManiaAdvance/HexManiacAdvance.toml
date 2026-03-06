@@ -1,0 +1,30 @@
+[GeneralSettings]
+LogAppStartupProgress = False
+UseTableEntryHeaders = True
+AllowSingleTableMode = True
+InsertAutoActive = True
+ShowMatrixGrid = True
+FocusOnGotoShortcuts = True
+ZoomLevel = 16
+MaximumDiffSegments = 1000
+MaximumSearchResults = 1000
+CopyLimit = 40000
+AnimateScroll = True
+AutoAdjustDataWidth = True
+StretchData = True
+AllowMultipleElementsPerLine = False
+IsNewVersionAvailable = False
+LastUpdateCheck = 2026-03-06 16:06:47
+AcknowledgeTutorials = True
+Base10Length = False
+SpartanMode = False
+MapTutorials = '''000000000000000000000000000000000000'''
+RecentFiles = ["C:\Users\charl\OneDrive\Documents\PkmnRomHack\Pokemon_SteGraine_RomHack\Pokemon - Emerald Version (USA, Europe).gba"]
+
+[Theme]
+PrimaryColor = "#dddddd"
+BackgroundColor = "#222222"
+HueOffset= 0
+AccentSaturation = 0,7000000000000003
+AccentValue = 0,697841726618705
+HighlightBrightness = 1
