@@ -4,7 +4,7 @@ UseTableEntryHeaders = True
 AllowSingleTableMode = True
 InsertAutoActive = True
 ShowMatrixGrid = True
-FocusOnGotoShortcuts = True
+FocusOnGotoShortcuts = False
 ZoomLevel = 16
 MaximumDiffSegments = 1000
 MaximumSearchResults = 1000
@@ -12,14 +12,14 @@ CopyLimit = 40000
 AnimateScroll = True
 AutoAdjustDataWidth = True
 StretchData = True
-AllowMultipleElementsPerLine = False
+AllowMultipleElementsPerLine = True
 IsNewVersionAvailable = False
 LastUpdateCheck = 2026-03-06 16:06:47
 AcknowledgeTutorials = True
 Base10Length = False
 SpartanMode = False
-MapTutorials = '''000000000000000000000000000000000000'''
-RecentFiles = ["C:\Users\charl\OneDrive\Documents\PkmnRomHack\Pokemon_SteGraine_RomHack\Pokemon - Emerald Version (USA, Europe).gba"]
+MapTutorials = '''101111000110000111001100100110100101'''
+RecentFiles = ["C:\Users\charl\OneDrive\Documents\PkmnRomHack\Pokemon_SteGraine_RomHack\Pokemon - Emerald Version  - TestRomHack.gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
