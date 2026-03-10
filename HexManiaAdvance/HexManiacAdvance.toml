@@ -4,8 +4,8 @@ UseTableEntryHeaders = True
 AllowSingleTableMode = True
 InsertAutoActive = True
 ShowMatrixGrid = True
-FocusOnGotoShortcuts = False
-ZoomLevel = 16
+FocusOnGotoShortcuts = True
+ZoomLevel = 18
 MaximumDiffSegments = 1000
 MaximumSearchResults = 1000
 CopyLimit = 40000
@@ -18,7 +18,7 @@ LastUpdateCheck = 2026-03-08 1:31:14 PM
 AcknowledgeTutorials = False
 Base10Length = False
 SpartanMode = False
-MapTutorials = '''000000000000000000000000000000000000'''
+MapTutorials = '''001000000000000001000001000000000000'''
 RecentFiles = ["D:\Workfiles\01_Personnal\08_Pokemon_RomHack\Build\Pokemon - Emerald Version  - TestRomHack.gba"]
 
 [Theme]
